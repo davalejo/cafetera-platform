@@ -1,0 +1,7 @@
+com\cafetera\servlets\CarritoServlet.class
+com\cafetera\servlets\InventarioServlet.class
+com\cafetera\servlets\PagosServlet.class
+com\cafetera\servlets\PedidosServlet.class
+com\cafetera\servlets\ProductoresServlet.class
+com\cafetera\servlets\AnalisisServlet.class
+com\cafetera\servlets\IndexServlet.class
